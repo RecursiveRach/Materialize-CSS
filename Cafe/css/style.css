@@ -1,0 +1,33 @@
+.nav-wrapper {
+  background-color: #6f4037;
+}
+.nav-wrapper > a {
+  text-transform: none;
+  font-family: "Pacifico", cursive;
+  padding-left: 40px;
+}
+
+.slider .indicators .indicator-item.active {
+  background: #6f4037 !important;
+}
+
+.move {
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+hr {
+  color: #6f4037;
+  height: 10px;
+  border: none;
+  background-color: #6f4037;
+}
+.parallax-container {
+  min-height: 380px;
+  height: auto;
+}
+.icon-coffee {
+  color: #6f4037;
+}
+.page-footer {
+  background: #6f4037 !important;
+}
